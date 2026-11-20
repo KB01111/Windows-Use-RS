@@ -1,11 +1,7 @@
 MIT License
 
 Copyright (c) 2025 Windows-Use-RS contributors
-
-This project is a Rust port of Windows-Use, which is
-Copyright (c) 2025 Jeomon George (https://github.com/Jeomon/Windows-Use),
-released under the MIT License. Portions of the design, prompt text, tool
-descriptions and behaviour follow that original work.
+Copyright (c) 2025 Jeomon George (Windows-Use, https://github.com/Jeomon/Windows-Use)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
