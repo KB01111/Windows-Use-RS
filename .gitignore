@@ -1,0 +1,23 @@
+# Rust build artifacts
+/target/
+**/target/
+
+# Python reference environment and scratch outputs
+.refenv/
+__pycache__/
+*.pyc
+parity_python.json
+parity_rust.json
+parity_python.err
+sendkeys_ref.json
+
+# The reference Python source, fetched on demand (see README)
+/upstream/
+
+# Agent/session state
+.commandcode/
+
+# OS noise
+Thumbs.db
+desktop.ini
+.DS_Store
